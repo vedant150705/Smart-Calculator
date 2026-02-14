@@ -144,7 +144,7 @@ Beginner → Intermediate Frontend Developer
 ## 👨‍💻 Author
 
 Vedant Zod  
-Python Learner | Frontend Beginner | Logic Builder 🚀
+Python Learner | Frontend Beginner | Logic Builder  🚀
 
 ---
 
