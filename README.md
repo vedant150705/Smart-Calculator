@@ -6,6 +6,7 @@ This project is designed to strengthen core frontend development skills and impr
 
 ---
 
+
 ## 📌 Project Description
 
 Smart Calculator V2 is a browser-based calculator that performs both basic and advanced mathematical operations.  
