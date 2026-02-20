@@ -1,4 +1,4 @@
-# 🧮 Smart Calculator V2 – Advanced Web Calculator
+# 🧮 Smart Calculator – Advanced Web Calculator
 
 A modern, responsive, and interactive **Smart Calculator** built using **HTML, CSS, and JavaScript**.
 
@@ -10,7 +10,7 @@ This project is designed to strengthen core frontend development skills and impr
 
 ## 📌 Project Description
 
-Smart Calculator V2 is a browser-based calculator that performs both basic and advanced mathematical operations.  
+Smart Calculator is a browser-based calculator that performs both basic and advanced mathematical operations.  
 It provides a clean user interface and handles invalid inputs gracefully.
 
 This project demonstrates strong understanding of:
